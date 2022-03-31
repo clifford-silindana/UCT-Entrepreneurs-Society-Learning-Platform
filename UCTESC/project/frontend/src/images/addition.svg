@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="#E5E5E5"/>
+<g id="plus-svgrepo-com 1">
+<ellipse id="Ellipse 1" cx="256" cy="256.5" rx="249" ry="249.5" fill="#25B6D2"/>
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<path id="Vector" d="M256 512C397.385 512 512 397.385 512 256C512 114.615 397.385 0 256 0C114.615 0 0 114.615 0 256C0 397.385 114.615 512 256 512Z" fill="#25B6D2"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+<g id="Group">
+<path id="Vector_2" d="M272 120H240V392H272V120Z" fill="#010101"/>
+<path id="Vector_3" d="M392 240H120V272H392V240Z" fill="#010101"/>
+</g>
+</g>
+</g>
+</svg>

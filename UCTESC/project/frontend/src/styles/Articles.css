@@ -1,0 +1,8 @@
+.articles-heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.addition-img {
+  width: 50px;
+}

@@ -9,7 +9,7 @@ import Home from "../src/pages/Home";
 import Team from "../src/pages/Team";
 import Videos from "../src/pages/Videos";
 import Articles from "../src/pages/Articles";
-import CreateArticle from "../src/pages/CreatArticle"
+import CreateArticle from "./pages/CreateArticle"
 import ArticleDetails from "../src/pages/ArticleDetail";
 import EditArticle from "../src/pages/EditArticle";
 import DeleteArticle from "../src/pages/DeleteArticle";
@@ -58,7 +58,6 @@ function App() {
           <Route path = "/videos/solution-slide" element = {<SolutionSlide />}></Route>
           <Route path = "/videos/traction" element = {<Traction />}></Route>
           <Route path = "/videos/value-proposition" element = {<ValueProposition />}></Route>
-          
         </Routes>
       </BrowserRouter>
 
